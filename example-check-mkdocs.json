@@ -1,0 +1,5 @@
+{
+    "mkdocsPath": "mkdocs.yml",
+    "docsDir": "docs",
+    "skip": []
+}
