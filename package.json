@@ -79,6 +79,6 @@
         "lint-staged": "^17.4.1",
         "prettier": "^3.5.3",
         "typescript": "^6.0.3",
-        "vitest": "^4.1.8"
+        "vitest": "^5.0.1"
     }
 }
